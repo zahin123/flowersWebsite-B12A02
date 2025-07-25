@@ -108,7 +108,8 @@
   
 
 .join-section {
-  background-image: url(/assets/news-letter-bg.png); /*for the bg picture*/
+  background-image: url(../assets/news-letter-bg.png); /*for the bg picture*/
+  
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
